@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**MadeByUlaises/MadeByUlaises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Buenas! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif">
+  Mi nombre es Ulises Borda (Made By Ulaises). 
+  Actualmente me encuentro estudiando "Desarrollo de Aplicaciones Web" en CoderHouse. Manejo HTML 5 - CSS - JavaScript
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  Idiomas: **Hablo Español, e Ingles en Nivel Medio.**
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+ Herramientas: Visual Studio Code
+</p>
