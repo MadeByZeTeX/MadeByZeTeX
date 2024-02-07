@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Buenas! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif">
-  Mi nombre es Ulises Borda (Made By Ulaises). 
+  Buenas! Mi nombre es Ulises Borda (Made By Ulaises). 
   Actualmente me encuentro estudiando "Desarrollo de Aplicaciones Web" en CoderHouse. Manejo HTML 5 - CSS - JavaScript
 </p>
 
