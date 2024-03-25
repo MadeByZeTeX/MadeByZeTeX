@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-¡Hola! Soy **Ulises Borda**, estudiante en Coder House, especializándome en el desarrollo web con habilidades en **HTML5**, **CSS** y **JavaScript**.
+¡Hola! Soy **Ulises Borda**, especializándome en el desarrollo web enfocado hacia el Desarrollo FrontEnd, trabajando HTML, CSS, JS y demás!
 
 Más allá de las líneas de código, mi corazón late al ritmo de la música, encuentro creatividad en la edición de videos y disfruto el mundo del **anime**. 
 
