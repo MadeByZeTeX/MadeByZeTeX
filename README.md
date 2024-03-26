@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-¡Hola! Soy **Ulises Borda**, Programador Trainee especializándome en el desarrollo web enfocado hacia el Desarrollo FrontEnd, trabajando HTML, CSS, JS y demás!
+¡Hola! Soy **Ulises Borda**, un Programador Trainee que se está especializando en el desarrollo web centrado en el FrontEnd. Actualmente trabajando con HTML, CSS, JavaScript y otras tecnologías relacionadas.
 
 Más allá de las líneas de código, mi corazón late al ritmo de la música, encuentro creatividad en la edición de videos y disfruto el mundo del **anime**. 
 
